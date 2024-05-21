@@ -1,0 +1,10 @@
+.accordion-body a{
+    text-decoration: none;
+    display: block;
+    padding: 8px;
+    border-radius: 7px;
+    color: black;
+}
+.accordion-body a:hover{
+    background-color: #ede5e5;
+}
